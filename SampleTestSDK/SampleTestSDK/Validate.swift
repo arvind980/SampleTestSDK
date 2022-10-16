@@ -9,7 +9,7 @@ import Foundation
 
 public class Validate{
     
-    public func fetchZone(_ zoneName: String) {
+    public static func fetchZone(_ zoneName: String) {
        print("fetchZone = ",zoneName)
     
     }
